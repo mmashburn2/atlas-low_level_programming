@@ -3,7 +3,7 @@
 /**
  * _isupper - checks if uppercase
  * @c: the number to be checked
- * 
+ *
  * Return: 1 if we have an upper
  */
 
@@ -15,3 +15,4 @@ int _isupper(int c)
 	}
 	return (0);
 }
+
