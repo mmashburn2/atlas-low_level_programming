@@ -3,6 +3,7 @@
 /**
   *its time to link some strings!
   */
+int i;
 char *_strcat(char *dest, char *src)
 {
 	while(src [i] != '\0');
