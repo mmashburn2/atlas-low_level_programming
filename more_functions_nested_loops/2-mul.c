@@ -7,7 +7,8 @@
  */
 
 int mul(int a, int b);
+return ( a * b );
 {
 	int multiply(int '2' * '3');
-	return ( a * b );
+	return 
 }
